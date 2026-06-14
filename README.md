@@ -166,11 +166,4 @@ aws s3 rb s3://safeclick-frontend-YOUR_ACCOUNT_ID --force
 # Delete CloudFront distribution via AWS Console
 ```
 
-## Team
 
-- Sidda Deepika — AI Analyzer + Frontend UI
-- Sasanapuri Sesha Sai — Web Crawler
-- Patapanchula Hemanth Sai — API + Infrastructure
-- Pasupula Shanthan Kumar — Results Handler + Evaluation
-
-**Guide:** Dr. Cuddapah Anitha, Mohan Babu University
